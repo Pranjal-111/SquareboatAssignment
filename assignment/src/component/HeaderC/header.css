@@ -1,0 +1,34 @@
+:root {
+    --unnamed-color-303f60: #303F60;
+    --unnamed-color-ffffff: #FFFFFF;
+    --unnamed-color-43afff: #43AFFF;
+    }
+.headerContainer{
+    height:70px ;
+    width: 100%;
+    background-color: var(--unnamed-color-303f60);
+    top: 0px;
+left: 0px;
+display: flex;
+justify-content: space-between;
+}
+.logo{
+   height: 26px;
+   width: 82px; 
+   margin-top: 22px;
+   margin-left: 70px;
+}
+.buttonlogin{
+    display: flex;
+    height: 46px;
+    width: 148px;
+    margin-top: 12px;
+    margin-right: 70px;
+    border: 1px solid var(--unnamed-color-43afff);
+    background: #43AFFF33 ;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+}

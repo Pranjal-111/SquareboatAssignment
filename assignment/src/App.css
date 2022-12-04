@@ -1,0 +1,11 @@
+:root {
+  --unnamed-color-303f60: #303F60;
+  --unnamed-color-ffffff: #FFFFFF;
+  --unnamed-color-43afff: #43AFFF;
+  }
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
